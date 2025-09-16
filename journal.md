@@ -9,3 +9,7 @@ I chose option 1 as my journal prompt. In my opinion I think the new phone ban i
 # September 8, 2025
 
 The career I want to pursue and do is software engineering. Computer science is a big part of software engineering because most of the work in software engineering requires computer science. Software engineering deals with computers and technology a lot so knowing computer science well help in the future. You have to design, create, and maintain software systems with technology so knowing computer science is really helpful. You can't become a software engineer without knowing computer science.
+
+# September 16, 2025
+
+We all know climate change is a real world problem, but we still don't really help to stop it or reduce it, so my idea is using AI to analyze vast amounts of environmental data to predict climate change and identify ways to reduce it or completely stop it. This helps reduce the amount of heat strokes every year. Did you know that each year there is atleast 60,000 people who end up in the emergency room due to having a heat stroke. I came up with this idea by something that happened to my grandpa when he was out working. He died due to a heat stroke and ever since I've been thinking of a way to help others who also work out in the heat. This idea could help people all over the world including construction workers, welders, and just people in general who work out in the heat.
