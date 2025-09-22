@@ -13,3 +13,7 @@ The career I want to pursue and do is software engineering. Computer science is 
 # September 16, 2025
 
 We all know climate change is a real world problem, but we still don't really help to stop it or reduce it, so my idea is using AI to analyze vast amounts of environmental data to predict climate change and identify ways to reduce it or completely stop it. This helps reduce the amount of heat strokes every year. Did you know that each year there is atleast 60,000 people who end up in the emergency room due to having a heat stroke. I came up with this idea by something that happened to my grandpa when he was out working. He died due to a heat stroke and ever since I've been thinking of a way to help others who also work out in the heat. This idea could help people all over the world including construction workers, welders, and just people in general who work out in the heat.
+
+# September 22, 2025
+
+Earning real money for working a virtual store can be good and bad. If the virtual store is actually helping humans in the real world well then workers earning real money is a good thing. But if the virtual store is just a false store that doesn't help humans in any way in the real world then its a bad idea. People working for a virtual store could make them inactive in the real world and just make them lazy. There is also benefits to this including helping people who need jobs but don't have time to go in person gain money and help them have a way to earn money. So there are both pros and cons to IKEA making this decision.
