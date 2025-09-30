@@ -17,3 +17,7 @@ We all know climate change is a real world problem, but we still don't really he
 # September 22, 2025
 
 Earning real money for working a virtual store can be good and bad. If the virtual store is actually helping humans in the real world well then workers earning real money is a good thing. But if the virtual store is just a false store that doesn't help humans in any way in the real world then its a bad idea. People working for a virtual store could make them inactive in the real world and just make them lazy. There is also benefits to this including helping people who need jobs but don't have time to go in person gain money and help them have a way to earn money. So there are both pros and cons to IKEA making this decision.
+
+# September 30, 2025
+
+The phrase "6, 7" doesn't really have a meaning, it's just a meme that was created. Students use it usually when a teacher says "6, 7". Ex: John has a competition in 6 or 7 days. Students usually say 67 in a happy mood. It’s rarely said when somebody is sad. The phrase "6, 7" is used so commonly in school, it’s a part of school culture.
