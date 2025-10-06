@@ -21,3 +21,7 @@ Earning real money for working a virtual store can be good and bad. If the virtu
 # September 30, 2025
 
 The phrase "6, 7" doesn't really have a meaning, it's just a meme that was created. Students use it usually when a teacher says "6, 7". Ex: John has a competition in 6 or 7 days. Students usually say 67 in a happy mood. It’s rarely said when somebody is sad. The phrase "6, 7" is used so commonly in school, it’s a part of school culture.
+
+# October 6, 2025
+
+  If I was in charge of my school, I would allow phones during lunch and during passing periods but not in class so that students pay attention in class. I would allow headphones like airpods all day because me personally I focus better with music. I would also allow AI because sometimes I struggle with a certain topic and the teacher doesn't really explain it well so I have to use AI to teach me. I think certain games should be unblocked like learning games because it helps students learn while also having fun. All these policies would make students enjoy school more and they might actually want to be there.
