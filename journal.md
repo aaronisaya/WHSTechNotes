@@ -37,7 +37,8 @@ My prompt was made to help 9th graders understand pythagorean theorem better and
 
 # October 20, 2025
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| Name      | Class | Seat |
+| --------- | ----- | ---- |
+| Franklin  |  2nd  |  91A |
+| Hardeep   |  3rd  |  61F |
+| Marla     |  1st  |  35B |
