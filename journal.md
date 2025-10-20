@@ -35,7 +35,9 @@ I finished the Blocks jumper:Game creation.
 https://pythagtheorem.my.canva.site/
 My prompt was made to help 9th graders understand pythagorean theorem better and get a better grasp of what it is. Canva AI created a "game" around pythagorean theorem and used questions and a score to motivate the "player". The sliders that canva ai created works really well, as well as the questions. The sliders surpised me because I thought it was going to make a different type of game. I could be more specific and add more details to get exactly what I want. Being good at prompt engineering could really help get exactly what you want and what you're looking for.
 
-|  Name      |   Class  |   Seat  |
-|  Franklin  |----------|---------|
-|  Hardeep   |----------|---------|
-|  Marla     |----------|---------|
+# October 20, 2025
+
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
