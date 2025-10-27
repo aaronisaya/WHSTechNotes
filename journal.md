@@ -42,3 +42,7 @@ My prompt was made to help 9th graders understand pythagorean theorem better and
 | Franklin  |  2nd  |  91A |
 | Hardeep   |  3rd  |  61F |
 | Marla     |  1st  |  35B |
+
+# October 27, 2025
+
+If I could invent something cool to help, I would make something called the Safe-Spot Signal. It would be a small, bright green device that you stick on the outside of your house next to your door. When a disaster is happening and you're safe inside, you just press a big button on the device. It has a super-strong battery and doesn't need Wi-Fi or electricity from the street. When you press the button, it sends a special, super-far signal into the sky that just says, "We're Safe Here!" Then, when the rescue workers are driving around in their trucks after the storm, they have a special map that shows all the green dots. They won't waste time checking houses that already signaled they are okay, so they can go way faster to the places with no signal, which means people there really need help. It would be an easy way to save time and make sure that no one is forgotten.
