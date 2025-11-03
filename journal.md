@@ -46,3 +46,9 @@ My prompt was made to help 9th graders understand pythagorean theorem better and
 # October 27, 2025
 
 If I could invent something cool to help, I would make something called the Safe-Spot Signal. It would be a small, bright green device that you stick on the outside of your house next to your door. When a disaster is happening and you're safe inside, you just press a big button on the device. It has a super-strong battery and doesn't need Wi-Fi or electricity from the street. When you press the button, it sends a special, super-far signal into the sky that just says, "We're Safe Here!" Then, when the rescue workers are driving around in their trucks after the storm, they have a special map that shows all the green dots. They won't waste time checking houses that already signaled they are okay, so they can go way faster to the places with no signal, which means people there really need help. It would be an easy way to save time and make sure that no one is forgotten.
+
+
+# November 3, 2025
+
+It’s a huge deal that SNAP ran out of money because millions of families, especially kids and older people, can't afford essential groceries, meaning they could go hungry. This is terrible and makes food banks super crowded. Technology can help by using simple apps that immediately show you on a map which local food banks and free meal programs are open and have food available right now. Delivery apps could also use their drivers to bring emergency food boxes to people who are sick or can’t leave their house. The main problem is the digital divide because not everyone has a smartphone or reliable internet connection, which makes it hard for them to even use the apps. If I were the designer, my tool would be called Food Finder SMS. You would just text your ZIP code, and it would text you back instantly with the addresses of the three closest places giving out food to make sure everyone can get help fast.
+
