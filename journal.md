@@ -60,3 +60,6 @@ Technology is completely changing how we spend the holidays, which is both good 
 
 Real estate photographers use drones to create "advertisments" for properties that real estate agents are selling. This helps real estate agents show potential customers a tour of the house through their phone. Coding helps the drone to safely navigate the property without crashing into anything. These real estate "photographers" earn about 63,000 a year (according to google). You need to have a FAA certification for drone work. I would want to do this job in the future, this job just seems fun flying drones around a house and avoiding obstacles just seems fun to me.
 
+# December 8, 2025
+
+The self driving car might fail to recognize the stop sign that is extended. The sensors might not be functioning or might be dirty so it wouldn't see the stop sign. I would program a auto cleaning every 30 mins, and I would also try to program the car to make sure the stop sign is not extended when behind a bus. I would train the AI to identify red flashing lights. I also would train it to identify a stop sign extended from a bus.
