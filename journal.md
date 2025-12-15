@@ -63,3 +63,7 @@ Real estate photographers use drones to create "advertisments" for properties th
 # December 8, 2025
 
 The self driving car might fail to recognize the stop sign that is extended. The sensors might not be functioning or might be dirty so it wouldn't see the stop sign. I would program a auto cleaning every 30 mins, and I would also try to program the car to make sure the stop sign is not extended when behind a bus. I would train the AI to identify red flashing lights. I also would train it to identify a stop sign extended from a bus.
+
+# December 15, 2025
+
+For christmas break I am going to North Carolina with my family for 2 weeks. We are going to do a secret santa.
