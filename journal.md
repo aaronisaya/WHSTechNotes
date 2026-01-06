@@ -67,3 +67,7 @@ The self driving car might fail to recognize the stop sign that is extended. The
 # December 15, 2025
 
 For christmas break I am going to North Carolina with my family for 2 weeks. We are going to do a secret santa.
+
+# January 6, 2026
+
+I used my phone to look for gifts for christmas. I also used it to look at the weather and see how cold it would be. I used my ps5 to play games.
