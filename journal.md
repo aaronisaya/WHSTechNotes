@@ -71,3 +71,8 @@ For christmas break I am going to North Carolina with my family for 2 weeks. We 
 # January 6, 2026
 
 I used my phone to look for gifts for christmas. I also used it to look at the weather and see how cold it would be. I used my ps5 to play games.
+
+# January 12, 2026
+
+Autcraft was founded because autistic players were being bullied quite a bit on other servers of Minecraft, and a safe place needed to be created where they could play without fear of being bullied. Safe sites are necessary because, without guidelines, people can really be cruel, and it becomes difficult for everyone to play nicely outside of playing the game itself. It is a job for the developers to correct this because it is too difficult for kids to stand up to the bullies by themselves. Otherwise, the internet will really just be a place where kids feel like they're being left out or that they can't express themselves.
+
