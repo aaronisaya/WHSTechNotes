@@ -76,3 +76,7 @@ I used my phone to look for gifts for christmas. I also used it to look at the w
 
 Autcraft was founded because autistic players were being bullied quite a bit on other servers of Minecraft, and a safe place needed to be created where they could play without fear of being bullied. Safe sites are necessary because, without guidelines, people can really be cruel, and it becomes difficult for everyone to play nicely outside of playing the game itself. It is a job for the developers to correct this because it is too difficult for kids to stand up to the bullies by themselves. Otherwise, the internet will really just be a place where kids feel like they're being left out or that they can't express themselves.
 
+# January 29, 2026
+
+The test I took was MAP, and I feel good about my performance. One thing I did well was answer questions quickly, but I struggled with nothing.I think test prep wouldn't help me because I already did so good on it.
+
