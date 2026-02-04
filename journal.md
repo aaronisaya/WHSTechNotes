@@ -80,3 +80,7 @@ Autcraft was founded because autistic players were being bullied quite a bit on 
 
 The test I took was MAP, and I feel good about my performance. One thing I did well was answer questions quickly, but I struggled with nothing.I think test prep wouldn't help me because I already did so good on it.
 
+# Febuary 2, 2026
+
+Good hygiene shows respect for others and keeps the shared environment comfortable so everyone can focus. Loud noises and strong smells break people's concentration and make the workspace feel stressful rather than productive. Being professional means using a quiet voice, respecting personal space, and staying aware of how your actions affect those around you. Controlling your reactions and volume is a vital skill because it builds trust and shows you can handle workplace challenges calmly. I can work on my awareness of surroundings by checking that my volume and behavior aren't disrupting the people trying to work near me.
+
