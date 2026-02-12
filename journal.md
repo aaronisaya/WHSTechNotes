@@ -84,3 +84,7 @@ The test I took was MAP, and I feel good about my performance. One thing I did w
 
 Good hygiene shows respect for others and keeps the shared environment comfortable so everyone can focus. Loud noises and strong smells break people's concentration and make the workspace feel stressful rather than productive. Being professional means using a quiet voice, respecting personal space, and staying aware of how your actions affect those around you. Controlling your reactions and volume is a vital skill because it builds trust and shows you can handle workplace challenges calmly. I can work on my awareness of surroundings by checking that my volume and behavior aren't disrupting the people trying to work near me.
 
+# Febuary 10, 2026
+
+No, I'm mexican. Only halftime, the halftime was alr.
+
