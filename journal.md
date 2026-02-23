@@ -88,3 +88,6 @@ Good hygiene shows respect for others and keeps the shared environment comfortab
 
 No, I'm mexican. Only halftime, the halftime was alr.
 
+# Febuary 23, 2026
+
+I think the most significant technology employed during the 2026 Winter Olympics was motion tracking, as it made the greatest contribution to sports performance by allowing athletes to access data that was not visible to the naked eye before. The technology was employed during the event when athletes took part in figure skating competitions, where sophisticated cameras and sensors were used to measure the height of jumps and the speed of rotation. For example, it enabled judges and coaches to determine the exact degree of rotation in a Quadruple Lutz. The technology made a contribution to the competition because it enabled more objective judging and enabled athletes to make minute adjustments to their performance; however, it also raised a concern that the sport may lose its unique artistic and emotional expression if it relies too much on technology.
