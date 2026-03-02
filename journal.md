@@ -111,5 +111,6 @@ Experience: 1-3 years
 Skills: SQL, Excel, Tableau
 Certifications: Google Data Analytics
 What they do: They analyze shopping data to try and improve the shopping experience for H-E-B customers.
+
 Part C — C.E.R. Paragraph
 I would want the Software Engineer position at USAA because I would enjoy developing apps. In order for me to get this job, I would need a Bachelor's degree in Computer Science, which requires that I be familiar with computer languages such as Java. This requirement resonates with me because I already enjoy computer programming, and I'm currently taking a computer technology course. In addition, the experience required for the position is 2 years, which means that I would be able to gain experience while I'm still in college. This career would be the best for me because it would allow me to solve problems by programming.
