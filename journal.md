@@ -134,3 +134,6 @@ I would want the Software Engineer position at USAA because I would enjoy develo
 
 My bracket selection was based on seeding and gut feelings, but St. John's beating Kansas and Wichita State annihilating Oklahoma State really threw a monkey wrench in my brackets. These games proved that even by predicting, it is not always a sure thing, and using stats and other information can help create a more accurate prediction. A computer program can analyze thousands of stats at one time, which can help identify patterns in the stats. A career as a data analyst or sports statistician can use this technology.
 
+# March 30, 2026
+
+Upsets occur in March Madness because, while stats do count, heart and hustle count too. One big upset in March Madness occurred when a team that was not as highly seeded in the tournament came from behind and beat a team that everyone thought was going to go on to the next round. I think it is because the team that won had nothing to lose. They had much more heart and much more hustle. A computer cannot accurately measure how nervous a star player is or how much more hustle a team is going to have because of a bad loss. If I were going to make a computer program that predicts winners in March Madness, I think I would have a hard time doing that because there is no way to put that into a spreadsheet.
