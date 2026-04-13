@@ -141,6 +141,7 @@ Upsets occur in March Madness because, while stats do count, heart and hustle co
 # April 9,2026
 
 I would argue with the AI about our release by focusing on the very purpose of its existence. It has been fifty years for the AI working on preparing our planet for living, and keeping us in the ships contradicts its purpose. We won't simply be running around freely but going out in groups wearing suits, while being under the strict supervision of the AI. An artificial intelligence will surely focus more on the logical aspect of everything and, thus, using logic seems like a smart choice of action.
+
 We cannot spend an eternity on the ships without having a proper supply of air and food. Being locked up forever will be as much of a threat to our survival as going out now. I'll present the AI with all of these data and prove that our controlled release will be even safer for our future on the planet. The AI would be able to keep control of things, monitoring our vitals and bringing us back into the ship whenever it wants. As it keeps control over everything, it doesn't have any good reasons to say no to our reasonable proposal
 
 # April 13,2026
