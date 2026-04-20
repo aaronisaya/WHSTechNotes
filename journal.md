@@ -147,3 +147,7 @@ We cannot spend an eternity on the ships without having a proper supply of air a
 # April 13,2026
 
 Spacecraft technology has evolved so much so that today's rockets can transport humans to the Moon successfully. However, more improvements are necessary before sending people to Mars. During the Artemis II mission, the astronauts used life support technology to sustain themselves in the spacecraft for ten days. They also employed navigation technology to guide the spaceship on its journey. One technical issue that occurred during this mission involved a broken toilet, which might seem insignificant but would pose a critical problem if it were to happen during a mission to Mars. Since traveling to the red planet takes six months, a malfunction like this may prove fatal for the crew. These technical difficulties are crucial in the sense that they help scientists identify areas requiring improvements. Before resolving such issues, I do not believe we are fully prepared for a mission to Mars.
+
+# April 20, 2026
+
+THis is a free week.
