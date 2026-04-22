@@ -138,13 +138,13 @@ My bracket selection was based on seeding and gut feelings, but St. John's beati
 
 Upsets occur in March Madness because, while stats do count, heart and hustle count too. One big upset in March Madness occurred when a team that was not as highly seeded in the tournament came from behind and beat a team that everyone thought was going to go on to the next round. I think it is because the team that won had nothing to lose. They had much more heart and much more hustle. A computer cannot accurately measure how nervous a star player is or how much more hustle a team is going to have because of a bad loss. If I were going to make a computer program that predicts winners in March Madness, I think I would have a hard time doing that because there is no way to put that into a spreadsheet.
 
-# April 9,2026
+# April 9, 2026
 
 I would argue with the AI about our release by focusing on the very purpose of its existence. It has been fifty years for the AI working on preparing our planet for living, and keeping us in the ships contradicts its purpose. We won't simply be running around freely but going out in groups wearing suits, while being under the strict supervision of the AI. An artificial intelligence will surely focus more on the logical aspect of everything and, thus, using logic seems like a smart choice of action.
 
 We cannot spend an eternity on the ships without having a proper supply of air and food. Being locked up forever will be as much of a threat to our survival as going out now. I'll present the AI with all of these data and prove that our controlled release will be even safer for our future on the planet. The AI would be able to keep control of things, monitoring our vitals and bringing us back into the ship whenever it wants. As it keeps control over everything, it doesn't have any good reasons to say no to our reasonable proposal
 
-# April 13,2026
+# April 13, 2026
 
 Spacecraft technology has evolved so much so that today's rockets can transport humans to the Moon successfully. However, more improvements are necessary before sending people to Mars. During the Artemis II mission, the astronauts used life support technology to sustain themselves in the spacecraft for ten days. They also employed navigation technology to guide the spaceship on its journey. One technical issue that occurred during this mission involved a broken toilet, which might seem insignificant but would pose a critical problem if it were to happen during a mission to Mars. Since traveling to the red planet takes six months, a malfunction like this may prove fatal for the crew. These technical difficulties are crucial in the sense that they help scientists identify areas requiring improvements. Before resolving such issues, I do not believe we are fully prepared for a mission to Mars.
 
