@@ -150,4 +150,9 @@ Spacecraft technology has evolved so much so that today's rockets can transport 
 
 # April 20, 2026
 
-THis is a free week.
+This is a free week.
+
+# April 27, 2026
+
+Lately, it seems like screens and sensors have taken over the games people love to watch. Precision creeps into every pass, shot, and tackle - thanks to digital eyes everywhere. Take last week’s NBA playoff moments: close calls once left to guesswork now get settled by frame-by-frame video checks. That system, known as Hawkeye, maps motion so clearly there is little room for argument. Over in football, team scouts didn’t just study film - they leaned on machine-driven models to sort through college records. Numbers shaped decisions more than gut feelings ever could. Outcomes hinge less on opinion these days. What matters most? Cold reads of speed, accuracy, effort - all measured before a ball even moves. Faster than sight, sensors catch what people cannot - such as how fast someone runs or whether a ball just touched a boundary. Thanks to gadgets stepping in, athletic contests now lean less on opinion and more on precise measurements.
+
