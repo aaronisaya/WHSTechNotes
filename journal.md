@@ -159,4 +159,8 @@ I used AI to assist with this entry.
 
 # May 6, 2026
 
-I do 
+I do help train AI systems. I use apps like Instagram, Tiktok, Claude, and Google, that use AI in some way. Everytime I solve a reCAPTCHA, I am giving feedback that is used to teach the AI. Everytime I scroll, companies learn my behavioral patterns and use that to recommend me things. This changes the way I think about these apps and changes the way I might use the app.
+
+# May 11, 2026
+
+After looking back at this year, I believe my friendships has definitely improved. I came from NC and was brand new to the state so I knew no one over here. After the first like 3 months of school I had a lot of friendships. I started talking to people instead of being a quiet kid. In the beginning of the school year, I barely knew anyone and I was the quiet kid. At the end of the year, I now have a lot of friends and no longer am the quiet kid.
