@@ -164,3 +164,7 @@ I do help train AI systems. I use apps like Instagram, Tiktok, Claude, and Googl
 # May 11, 2026
 
 After looking back at this year, I believe my friendships has definitely improved. I came from NC and was brand new to the state so I knew no one over here. After the first like 3 months of school I had a lot of friendships. I started talking to people instead of being a quiet kid. In the beginning of the school year, I barely knew anyone and I was the quiet kid. At the end of the year, I now have a lot of friends and no longer am the quiet kid.
+
+# May 18, 2026
+
+If I had to describe Mr. Laury to the cops I would say he's an African American with short grey hair and a little goatee with a mustache thats gray. I would also say he's on the chunkier side. I would tell the cops that he's always yelling "1 more minute!" He is usually in the school's hallways. He also has glasses. One funny detail about him is that he is always yelling "1 more minute"
